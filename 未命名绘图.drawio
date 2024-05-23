@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T05:29:37.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ZxmFpxgm_J4rq1lHddgY" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T05:30:40.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="1uY7IfcvEIp6hWwv86kx" version="24.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1386" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,11 +112,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6bqjRStmIQq89tT42Z0w-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bqjRStmIQq89tT42Z0w-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6bqjRStmIQq89tT42Z0w-21" value="是有效数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6bqjRStmIQq89tT42Z0w-28" value="提示暂不支持该类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="305" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6bqjRStmIQq89tT42Z0w-31" value="丢弃数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="355" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
