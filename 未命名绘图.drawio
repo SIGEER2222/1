@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T05:30:34.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="aCcI4iGbcmmI6RGdZPQD" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T06:02:10.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ub8Mp3e2uSDI-7u8nqMC" version="24.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1386" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,11 @@
         <mxCell id="6bqjRStmIQq89tT42Z0w-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bqjRStmIQq89tT42Z0w-44" target="6bqjRStmIQq89tT42Z0w-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6bqjRStmIQq89tT42Z0w-60" value="注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6bqjRStmIQq89tT42Z0w-51">
+          <mxGeometry x="-0.0714" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6bqjRStmIQq89tT42Z0w-44" value="OSA解调Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="935" y="195" width="110" height="40" as="geometry" />
         </mxCell>
@@ -191,13 +196,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6bqjRStmIQq89tT42Z0w-59" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6bqjRStmIQq89tT42Z0w-56">
+          <mxGeometry x="0.0133" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6bqjRStmIQq89tT42Z0w-52" value="Mysql数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1101" y="260" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6bqjRStmIQq89tT42Z0w-49" value="乘黄厂务系统Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1101" y="190" width="141" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6bqjRStmIQq89tT42Z0w-54" value="Mes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6bqjRStmIQq89tT42Z0w-54" value="MES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1290" y="195" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6bqjRStmIQq89tT42Z0w-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bqjRStmIQq89tT42Z0w-44" target="6bqjRStmIQq89tT42Z0w-49">
@@ -206,6 +216,11 @@
               <mxPoint x="970" y="150" />
               <mxPoint x="1186" y="150" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bqjRStmIQq89tT42Z0w-58" value="返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6bqjRStmIQq89tT42Z0w-57">
+          <mxGeometry x="-0.0331" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
